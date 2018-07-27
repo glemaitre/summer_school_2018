@@ -6,7 +6,7 @@ Instructors
 -----------
 
 - [Guillaume Lemaitre](https://glemaitre.github.io/)  [@glemaitre](https://github.com/glemaitre) - Inria, Université Paris-Saclay
-- [Andreas Mueller](http://amuller.github.io) [@amuellerml](https://twitter.com/amuellerml) - Columbia University; [Book: Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
+- [Andreas Mueller](http://amueller.github.io) [@amuellerml](https://twitter.com/amuellerml) - Columbia University; [Book: Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
 
 ---
 
