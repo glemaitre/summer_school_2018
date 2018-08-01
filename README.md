@@ -176,3 +176,15 @@ The full list of the tutorials is:
 - 23 Supervised learning: Out-of-core learning [[view](03_sklearn/notebooks/23.Out-of-core_Learning_Large_Scale_Text_Classification.ipynb)]
 
 For time constraint, we will most probably focus on the following list of tutorials: [01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 13, 14, 15, 17, 18, 19]. If time allows, we will cover the notebooks which are note specified.
+
+
+References
+----------
+
+* The introduction to python notebook `00_python` is orginally presented in the [SciPy lecture notes](https://www.scipy-lectures.org/intro/language/python_language.html)
+* The NumPy introduction `01_numpy` was originally presetned in the [Python workshop by the CDS](https://github.com/paris-saclay-cds/python-workshop/tree/master/Day_1_Scientific_Python) by Bartosz Telenczuk.
+* The Pandas introduction `02_pandas` was originally presetned in the [Python workshop by the CDS](https://github.com/paris-saclay-cds/python-workshop/tree/master/Day_1_Scientific_Python) by Joris Van den Bossche.
+* The scikit-learn introduction `03_sklearn` was originally prepared by Andy Mueller at the [SciPy conference](https://github.com/amueller/scipy-2018-sklearn)
+
+.. [1] Andreas Mueller, "Introduction to Machine Learning with Python", 2017
+   http://shop.oreilly.com/product/0636920030515.do
