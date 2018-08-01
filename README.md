@@ -1,5 +1,5 @@
-SciPy 2018 Scikit-learn Tutorial
-================================
+Introduction to Python and Machine Learning
+===========================================
 
 
 Instructors
